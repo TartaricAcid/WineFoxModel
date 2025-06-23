@@ -24,6 +24,19 @@
 - 血腥暴力内容
 - 违法、违规内容
 
+## 二创作品展示
+
+你可以提交 Issues 或者 Pull Request 来补充此表格
+
+|                 作品名                 |                             地址                             |                             作者                             |
+| :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|          雨中冒险 2 酒狐模组           |        <https://www.bilibili.com/video/BV1vLjGzUELB>         |    [无形Invisible_](https://space.bilibili.com/129172098)    |
+|          绝地潜兵 2 酒狐模组           |        <https://www.bilibili.com/video/BV1URMnzyEEC>         |       [Pale_Fox](https://space.bilibili.com/10280428)        |
+| 酒狐 3D 模型打印售卖<br>**（已授权）** |        <https://www.bilibili.com/video/BV12SMUzQER5>         |         [油七桶](https://space.bilibili.com/4896879)         |
+|                酒狐桌宠                |     <https://www.xiaoheihe.cn/app/bbs/link/47417015b536>     | [請不要為我流淚](https://www.xiaoheihe.cn/app/user/profile/22307178) |
+|              酒狐动画二创              | <https://space.bilibili.com/3493267685509797/lists?sid=5449365> | [再来几斤小莫莫](https://space.bilibili.com/3493267685509797) |
+|              酒狐视频二创              |   <https://space.bilibili.com/471347935/lists?sid=3087459>   |  [国家一级保护废物セ](https://space.bilibili.com/471347935)  |
+
 ## 使用方式
 
 均为 BlockBench 源文件，基岩版实体模型，带基岩版动画。
