@@ -6,7 +6,7 @@
 
 最初设定是通过输入关键词（`长发、金发、狐娘、大正女仆`等）AI 生成的人设图制作而成，参考下图：
 
-![img](.\AI 人设图\酒狐初版 AI 人设图.jpg)
+![img](https://raw.githubusercontent.com/TartaricAcid/WineFoxModel/refs/heads/main/AI%20%E4%BA%BA%E8%AE%BE%E5%9B%BE/%E9%85%92%E7%8B%90%E5%88%9D%E7%89%88%20AI%20%E4%BA%BA%E8%AE%BE%E5%9B%BE.jpg)
 
 ## 授权许可
 
