@@ -100,6 +100,8 @@
 	- [圣起司](https://space.bilibili.com/18095414)：贴图和服装修改
 - 酒狐小汽车
     - [Maks怜悯](https://space.bilibili.com/352177387) 模型作者
+    - [包子725](https://space.bilibili.com/32500175) 模型修改
+    - [很可能是会说话的狗](https://space.bilibili.com/24106465) 材质修改
 - 酒狐摩托艇
     - [Maks怜悯](https://space.bilibili.com/352177387) 模型作者
 
